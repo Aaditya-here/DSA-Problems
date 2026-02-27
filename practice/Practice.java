@@ -18,7 +18,7 @@ public class Practice {
 				count++;
 			}
 		}
-System.out.println(curr);
+
 		return count;
 	}
 

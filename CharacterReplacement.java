@@ -1,5 +1,7 @@
 package Interview;
 
+import java.util.HashSet;
+
 public class CharacterReplacement {
 
 	public int characterReplacement(String s, int k) {

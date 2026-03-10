@@ -1,4 +1,4 @@
-package Interview;
+package Interview.Strings;
 
 public class IsAnagram {
 

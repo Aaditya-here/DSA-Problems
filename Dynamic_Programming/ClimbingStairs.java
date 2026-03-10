@@ -1,4 +1,4 @@
-package Interview;
+package Interview.Dynamic_Programming;
 
 import java.util.Scanner;
 

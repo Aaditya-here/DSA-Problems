@@ -1,4 +1,4 @@
-package Interview;
+package Interview.Bit_Manipulation;
 
 public class ReverseBits {
 

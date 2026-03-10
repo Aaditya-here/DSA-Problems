@@ -1,4 +1,4 @@
-package Interview;
+package Interview.Arrays;
 
 public class FindMin {
 	public int findMin(int[] nums) {

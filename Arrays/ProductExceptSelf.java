@@ -1,4 +1,4 @@
-package Interview;
+package Interview.Arrays;
 
 import java.util.Arrays;
 

@@ -61,5 +61,4 @@ public class ReverseLinklist {
 		System.out.println("Reversed List:");
 		printList(head);
 	}
-
 }
